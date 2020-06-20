@@ -1,0 +1,66 @@
+﻿body {
+}
+.content{
+    width:960px;
+    margin:0px auto;
+}
+#main {
+    height:auto;
+    width:960px;
+    margin:0px auto;
+    background-color:ghostwhite;
+}
+#topleft {
+    font-family:'Comic Sans MS';
+    font-size:initial;
+    height:26px;
+    width:342px;
+    float:left;
+
+}
+#topright {
+
+height:35px;
+width:280px;
+float:right;
+margin-left: 332px;
+}
+.clear {
+    clear:both;
+    margin:0px auto;
+}
+.mainimg {
+    height: 332px;
+    width: 960px;
+    margin:0px auto;
+    background-image: url('../book/front.jpg');
+}
+#ref {
+    font-family: 'Comic Sans MS';
+    font-size: larger;
+    width:960px;
+    margin:0px auto;
+}
+.textbox{
+    border-radius: 34px;
+     border-bottom-color: black;
+     border-bottom-left-radius: initial;
+}
+
+ .button{
+     background-color:palegreen;
+     border-radius: 34px;
+     border-bottom-color: black;
+     border-bottom-left-radius: initial;
+      font-family:'Comic Sans MS';
+      font-size:initial;
+      font-style:oblique;
+      float:right;
+ }
+  .tableddf{
+     border-color:black;
+     border-width:medium;
+}
+ .table {
+    border: 2px solid green;
+}
